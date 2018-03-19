@@ -12,3 +12,6 @@ HEADERS += \
 
 target.path = /root/andrea
 INSTALLS += target
+
+DISTFILES += \
+    README.md
